@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./utils"
+    ],
+    "postman.settings.dotenv-detection-notification-visibility": false
+}

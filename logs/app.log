@@ -1,0 +1,95 @@
+2025-08-17 13:55:21,097 INFO backend.app: FastAPI app has started.
+2025-08-17 14:10:04,840 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 14:10:07,222 INFO backend.app: FastAPI app has started.
+2025-08-17 14:14:13,564 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 14:14:14,888 INFO backend.app: FastAPI app has started.
+2025-08-17 14:37:05,639 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 14:37:08,220 INFO backend.app: FastAPI app has started.
+2025-08-17 14:37:22,967 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 14:37:24,164 INFO backend.app: FastAPI app has started.
+2025-08-17 14:43:27,644 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 14:43:29,008 INFO backend.app: FastAPI app has started.
+2025-08-17 15:02:31,074 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:02:33,352 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:02,320 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:03,813 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:12,046 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:13,660 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:19,107 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:20,337 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:31,406 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:33,095 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:41,423 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:42,963 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:48,639 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:50,017 INFO backend.app: FastAPI app has started.
+2025-08-17 15:07:58,220 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:07:59,555 INFO backend.app: FastAPI app has started.
+2025-08-17 15:08:07,774 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:08:09,239 INFO backend.app: FastAPI app has started.
+2025-08-17 15:08:17,322 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:08:18,708 INFO backend.app: FastAPI app has started.
+2025-08-17 15:58:54,878 INFO backend.app: FastAPI app is shutting down.
+2025-08-17 15:58:56,520 INFO backend.app: FastAPI app has started.
+2025-08-17 16:17:28,715 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 20:48:10,735 INFO backend.app: FastAPI app has started.
+2025-08-18 20:51:31,316 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:01:03,812 INFO backend.app: FastAPI app has started.
+2025-08-18 21:03:20,290 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:03:22,849 INFO backend.app: FastAPI app has started.
+2025-08-18 21:09:59,526 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:02,619 INFO backend.app: FastAPI app has started.
+2025-08-18 21:10:13,113 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:15,155 INFO backend.app: FastAPI app has started.
+2025-08-18 21:10:22,124 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:24,243 INFO backend.app: FastAPI app has started.
+2025-08-18 21:10:39,760 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:41,745 INFO backend.app: FastAPI app has started.
+2025-08-18 21:10:45,412 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:47,474 INFO backend.app: FastAPI app has started.
+2025-08-18 21:10:54,120 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:10:57,021 INFO backend.app: FastAPI app has started.
+2025-08-18 21:11:07,401 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:11:09,239 INFO backend.app: FastAPI app has started.
+2025-08-18 21:11:12,785 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:11:14,967 INFO backend.app: FastAPI app has started.
+2025-08-18 21:12:00,065 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:12:02,353 INFO backend.app: FastAPI app has started.
+2025-08-18 21:12:11,857 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:12:13,798 INFO backend.app: FastAPI app has started.
+2025-08-18 21:18:16,336 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:18:18,600 INFO backend.app: FastAPI app has started.
+2025-08-18 21:18:55,542 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:18:57,530 INFO backend.app: FastAPI app has started.
+2025-08-18 21:19:48,256 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:19:51,295 INFO backend.app: FastAPI app has started.
+2025-08-18 21:19:54,294 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:19:57,312 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:03,939 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:06,829 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:09,717 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:11,455 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:21,057 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:23,064 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:26,278 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:28,208 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:37,383 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:39,850 INFO backend.app: FastAPI app has started.
+2025-08-18 21:20:47,901 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:20:49,928 INFO backend.app: FastAPI app has started.
+2025-08-18 21:43:00,747 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:43:03,257 INFO backend.app: FastAPI app has started.
+2025-08-18 21:44:40,837 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 21:44:42,303 INFO backend.app: FastAPI app has started.
+2025-08-18 22:00:01,936 INFO backend.app: FastAPI app is shutting down.
+2025-08-18 22:00:04,530 INFO backend.app: FastAPI app has started.
+2025-08-19 16:37:20,649 INFO backend.app: FastAPI app has started.
+2025-08-19 16:58:00,909 INFO backend.app: FastAPI app is shutting down.
+2025-08-19 16:58:06,764 INFO backend.app: FastAPI app has started.
+2025-08-19 17:00:21,600 INFO backend.app: FastAPI app is shutting down.
+2025-08-19 17:00:28,019 INFO backend.app: FastAPI app has started.
+2025-08-19 17:01:24,514 INFO backend.app: FastAPI app is shutting down.
+2025-08-19 17:01:30,626 INFO backend.app: FastAPI app has started.
+2025-08-19 17:02:18,009 INFO backend.app: FastAPI app is shutting down.
+2025-08-19 17:02:24,232 INFO backend.app: FastAPI app has started.
+2025-08-19 18:30:17,349 INFO backend.app: FastAPI app is shutting down.
