@@ -33,31 +33,7 @@ It leverages **AutoGen**, **local LLMs (via LM Studio/Ollama)**, **Streamlit UI*
   - Rollback mechanism if agent output fails.  
 
 ---
-## 🧠 Workflow
 
-```mermaid
-flowchart TD
-
-    A[Upload SRC Document] --> B[Requirements Analyzer Agent]
-    B -->|Generates| C[srd_backend.md]
-    B -->|Generates| D[srd_frontend.md]
-
-    C --> E[User Validation]
-    D --> E
-
-    E -->|Approve| F[Backend Agent Workflow]
-    E -->|Approve| G[Frontend Agent Workflow]
-    E -->|Request Change| B
-
-    F --> H[FastAPI Routes + Pydantic Models + Alembic Migrations]
-    G --> I[Angular Components + Services + NgRx State]
-
-    H --> J[Test & Critic Agents]
-    I --> J
-
-    J -->|Review & Feedback| K[Human-in-the-Loop Validation]
-    K -->|Approve| L[Final Code Output in /output/]
-    K -->|Request Change| B
 
 ## ⚙️ Tech Stack
 - **Orchestration**: [AutoGen](https://microsoft.github.io/autogen/)  
